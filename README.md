@@ -1,2 +1,3 @@
 # demo-608d48
-Auto generated demo site for 明治通りクリニック
+
+AIによって自動生成された 明治通りクリニック 様向けのデモサイトです。
